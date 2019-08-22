@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This script renames contigs
+
 source activate bbmap-env
 
 for item in *contigs.fasta; do 
