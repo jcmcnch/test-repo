@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script renames contigs
+#This script renames contigs, yo
 
 source activate bbmap-env
 
